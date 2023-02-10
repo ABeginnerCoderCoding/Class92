@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url('hOye.gif');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    border-color: darkviolet;
+}
+#Music{
+    border-width: 5px; 
+    border-style: ridge;
+    background-color: rgb(233, 152, 30);
+    border-color: rgb(0, 0, 0);
+}
+
